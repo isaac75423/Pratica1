@@ -33,29 +33,29 @@
                             <a href="index.html" class="">
                                 <h3 class="text-primary"><i class="fa fa-user-edit me-2"></i>DarkPan</h3>
                             </a>
-                            <h3>Sign Up</h3>
+                            <h3>Registro</h3>
                         </div>
                         <div class="form-floating mb-3">
                             <input type="text" class="form-control" id="floatingText" placeholder="jhondoe">
-                            <label for="floatingText">Username</label>
+                            <label for="floatingText">Nombre de usuario</label>
                         </div>
                         <div class="form-floating mb-3">
                             <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com">
-                            <label for="floatingInput">Email address</label>
+                            <label for="floatingInput">Correo electrónico</label>
                         </div>
                         <div class="form-floating mb-4">
                             <input type="password" class="form-control" id="floatingPassword" placeholder="Password">
-                            <label for="floatingPassword">Password</label>
+                            <label for="floatingPassword">Contraseña</label>
                         </div>
                         <div class="d-flex align-items-center justify-content-between mb-4">
                             <div class="form-check">
                                 <input type="checkbox" class="form-check-input" id="exampleCheck1">
-                                <label class="form-check-label" for="exampleCheck1">Check me out</label>
+                                <label class="form-check-label" for="exampleCheck1">Mostrar contraseña</label>
                             </div>
-                            <a href="">Forgot Password</a>
+                           
                         </div>
-                        <button type="submit" class="btn btn-primary py-3 w-100 mb-4">Sign Up</button>
-                        <p class="text-center mb-0">Already have an Account? <a href="">Sign In</a></p>
+                        <a href="IniciarSesion.php" class="btn btn-primary py-3 w-100 mb-4">Crear cuenta</a>
+                        <p class="text-center mb-0">¿Ya tienes una cuenta? <a href="">Ingresar</a></p>
                     </div>
                 </div>
             </div>
