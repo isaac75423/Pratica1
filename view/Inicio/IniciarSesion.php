@@ -40,6 +40,7 @@
                             <h3>Iniciar Sesion</h3>
                         </div>
 
+
                         <form id="formAuthentication" class="mb-3" action="" method="POST"> 
 
                             <div class=" mb-3">
@@ -47,7 +48,7 @@
                             <label for="floatingInput">Correo Electronico</label>
                         </div>
                         <div class=" mb-4">
-                            <input type="password" class="form-control" id="Contraseña" name="Contraseña" placeholder="Contraseña">
+                            <input type="password" class="form-control" id="Contraseña" name="Contraseña" placeholder="Digite su contreseña">
                             <label for="floatingPassword">Contraseña</label>
                         </div>
                         <div class="d-flex align-items-center justify-content-between mb-4">
